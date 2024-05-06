@@ -6,8 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Esame/Dive into Abstraction.unity
-    guid: 33ed4d6850a32484d8258564ba2402f5
+    path: Assets/_ Federico Tesi/Start.unity
+    guid: f60d4365ef42f8747999193c5f0cb31d
+  - enabled: 1
+    path: Assets/_ Federico Tesi/FedericoTesi.unity
+    guid: ae6ae0ab879d09d4c85c908a867044db
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260,
       type: 2}
