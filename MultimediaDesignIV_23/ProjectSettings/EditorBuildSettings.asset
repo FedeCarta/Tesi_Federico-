@@ -6,10 +6,28 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_ Federico Tesi/Start.unity
+    path: Assets/_ Federico Tesi/Experience/Start.unity
     guid: f60d4365ef42f8747999193c5f0cb31d
   - enabled: 1
-    path: Assets/_ Federico Tesi/FedericoTesi.unity
+    path: Assets/_ Federico Tesi/Experience/Forest.unity
+    guid: 0d2f1b7237836994b897280dc413d083
+  - enabled: 1
+    path: Assets/_ Federico Tesi/Experience/Desert.unity
+    guid: 45ab7807519759e4c8d0166c10131049
+  - enabled: 1
+    path: Assets/_ Federico Tesi/Experience/Asylum.unity
+    guid: 5ac50c7276f05334f96da9bb4d073690
+  - enabled: 1
+    path: Assets/_ Federico Tesi/Experience/Mountain.unity
+    guid: 2b7510b4d50932446a5525a474b456ff
+  - enabled: 1
+    path: Assets/_ Federico Tesi/Experience/Meadow.unity
+    guid: 7d5801740cd166747ad844a0244edc8d
+  - enabled: 1
+    path: Assets/_ Federico Tesi/Experience/Beach.unity
+    guid: 21914feec2fd63046a804f6702c4cab9
+  - enabled: 1
+    path: Assets/_ Federico Tesi/Experience/End.unity
     guid: ae6ae0ab879d09d4c85c908a867044db
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260,
